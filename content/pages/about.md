@@ -2,7 +2,7 @@
 title: Abou
 sections:
   - type: hero_section
-    title: About
+    title: Abou
     subtitle: About Page Demo
     align: center
     background_color: secondary
